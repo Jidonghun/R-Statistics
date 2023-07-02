@@ -1,2 +1,2 @@
 # R-Statistics
-## R studio, SAS
+## R studio
